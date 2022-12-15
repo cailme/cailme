@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Title</title>
+    <link>/</link>
+    <description>Recent content on Site Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Dec 2022 21:31:06 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>/posts/linux/</link>
+      <pubDate>Sun, 11 Dec 2022 21:31:06 +0800</pubDate>
+      
+      <guid>/posts/linux/</guid>
+      <description>&lt;p&gt;Summary here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux大作业</title>
+      <link>/blog/homework/</link>
+      <pubDate>Sun, 11 Dec 2022 21:31:06 +0800</pubDate>
+      
+      <guid>/blog/homework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux笔记</title>
+      <link>/blog/linux/</link>
+      <pubDate>Sun, 11 Dec 2022 21:31:06 +0800</pubDate>
+      
+      <guid>/blog/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
